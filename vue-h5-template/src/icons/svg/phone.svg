@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #242629;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_615" data-name="矩形 615" class="cls-1" width="22" height="22" transform="translate(-3300 1398)"/>
+    </clipPath>
+  </defs>
+  <g id="phone" data-name="phone" class="cls-2" transform="translate(3300 -1398)">
+    <g id="组_1802" data-name="组 1802" transform="translate(-3952.723 305.964)">
+      <path id="路径_1293" data-name="路径 1293" class="cls-3" d="M666.348,1094.036H661.1a3.443,3.443,0,0,0-3.375,3.5v11a3.444,3.444,0,0,0,3.375,3.5h5.25a3.443,3.443,0,0,0,3.375-3.5v-11A3.443,3.443,0,0,0,666.348,1094.036Zm1.875,14.5a1.942,1.942,0,0,1-1.875,2H661.1a1.942,1.942,0,0,1-1.875-2v-11a1.942,1.942,0,0,1,1.875-2h5.25a1.943,1.943,0,0,1,1.875,2Z"/>
+      <rect id="矩形_524" data-name="矩形 524" class="cls-3" width="5.499" height="1.516" rx="0.505" transform="translate(660.974 1107.385)"/>
+    </g>
+  </g>
+</svg>

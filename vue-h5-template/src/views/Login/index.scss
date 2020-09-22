@@ -1,0 +1,51 @@
+.login-wrapper {
+  width: 100vw;
+  height: 100vh;
+  background: rgba(246, 247, 249, 1);
+  padding: 0;
+  position: relative;
+
+  .logo {
+    width: 76px;
+    height: 45px;
+    position: absolute;
+    top: 115px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+  .main-container {
+    width: 335px;
+    min-height: 280px;
+    background: rgba(255, 255, 255, 1);
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 20px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-167px);
+    top: 199px;
+    .code-btn {
+      font-family: PingFang SC;
+      font-weight: 500;
+      color: rgba(189, 191, 194, 1);
+    }
+    .code-btn.disabled-style {
+      background-color: #eeeeee;
+    }
+    .login-btn {
+      width: 275px;
+      height: 40px;
+      background: rgba(0, 205, 205, 1);
+      margin-top: 60px;
+      margin-left: 10px;
+      border-radius: 20px;
+      font-size: 18px;
+      font-family: PingFang SC;
+      font-weight: 600;
+      line-height: 25px;
+      color: rgba(255, 255, 255, 1);
+      letter-spacing: 4px;
+    }
+  }
+}
